@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "username": "Srihitha",
+      "address": "Hyderabad,Telangana,India",
+      "base": "HYD",
+      "gender": "Female",
+      "hobbies": [
+        "Travelling"
+      ],
+      "id": 1
+    },
+    {
+      "username": "Srihitha",
+      "address": "Hyderabad,Telangana,India",
+      "base": "HYD",
+      "gender": "Female",
+      "hobbies": [
+        "Travelling",
+        "Reading"
+      ],
+      "id": 2
+    }
+  ]
+}
